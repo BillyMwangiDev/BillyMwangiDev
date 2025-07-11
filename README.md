@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BillyMwangiDev
-- 👀 I’m interested in AI solutions.
+- 👀 I’m interested in software solutions.
 - 🌱 I’m currently learning how to use programming to make AI driven solutions.
 - 💞️ I’m looking to collaborate on any interesting projects.
 - 📫 How to reach me linkedin BILLYMWANGI
