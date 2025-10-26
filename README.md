@@ -1,38 +1,107 @@
-👋 Hi, I'm Billy Mwangi
 
-System Administrator | Software Engineer
+# 👋 Hi, I'm Billy Mwangi
 
----
+**System Administrator | ALX Backend Student | Aspiring Software Engineer**
 
-🌟 My mission is to use technology and creativity to build digital solutions that solve real-life problems.
-
----
-
-🛠️ Top Skills
-
-- Python | Django | React
-- AI-assisted development & creative coding
-- Systems administration and automation
+📩 [billymwangi200@gmail.com](mailto:billymwangi200@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/billy-mwangi-5b6b5926a)  
+💻 [GitHub](https://github.com/BillyMwangiDev)
 
 ---
 
-💼 About Me
+## 💡 About Me
 
-I'm a passionate tech enthusiast who enjoys blending system reliability with innovative software solutions. Whether I'm automating tasks as a sysadmin or building dynamic web apps, I always strive for excellence and impact.
-
-- 👨‍💻 Love “vibe coding” (good music, great code)
-- 🤖 Enjoy exploring AI-powered tools and workflows
-- 🏋️‍♂️ Fitness enthusiast — I believe a healthy body fuels a sharp mind
+I’m a System Administrator and backend developer in training at **ALX**, passionate about creating **AI-driven** and **locally tailored** solutions that address real African challenges.  
+I enjoy combining system reliability with innovative development to build tools that improve performance, automate workflows, and make technology more accessible.
 
 ---
 
- 🌐 Connect With Me
+## 🎯 Mission & Vision
 
-[![LinkedIn]](https://www.linkedin.com/in/billy-mwangi-5b6b5926a?)
+**Mission**  
+To use technology and creativity to design practical, ethical, and sustainable solutions that make a real difference in people’s lives.
+
+**Vision**  
+To contribute to impactful projects that combine **artificial intelligence**, **automation**, and **robust backend systems** to power African innovation across education, infrastructure, and business.
 
 ---
 
-> “Technology is best when it brings people together and solves real problems.”
+## 🛠️ Core Skills
+
+- **Programming & Backend:** Python, Django, REST APIs  
+- **Web:** Basic React, UI/UX awareness  
+- **Systems & Infrastructure:** Systems administration, automation, Nutanix, Veeam  
+- **AI & Innovation:** AI-assisted development, creative coding, productivity automation  
+- **DevOps Basics:** Docker, CI/CD concepts, infrastructure scripting  
+
+---
+
+## 📜 Certifications & Training
+
+- Nutanix Certified  
+- Veeam Certified  
+- Cisco Python Certification  
+- ALX Professional Foundations  
+
+---
+
+## 🚀 Featured Projects
+
+### [AI Farm Assist](#)
+**Backend + AI Prototype**  
+An API that helps smallholder farmers with crop recommendations and yield forecasts using a lightweight ML model.  
+**Tech:** Python, Django, FastAPI, basic ML inference.
+
+---
+
+### [Reliable Backup Playbook](#)
+**Infrastructure Automation**  
+Automated backup and restore verification scripts for Nutanix and Veeam environments.  
+**Tech:** Python, Shell scripting, Veeam CLI, Nutanix API.
+
+---
+
+### [Ops Ticketing & Workflow Tool](#)
+**Sysadmin Tool**  
+Web tool for managing incidents, sending notifications, and logging fixes for quick resolution.  
+**Tech:** Django, SQLite, APIs, simple frontend.
+
+---
+
+## 🧠 How I Work
+
+- I start by understanding real-world problems before writing code.  
+- I focus on **automation** to save time and prevent human error.  
+- I believe in **iterative development**, turning small ideas into scalable systems.  
+
+---
+
+## 🌍 What I’m Looking For
+
+I’m open to **internships**, **junior backend roles**, and **collaborations** focused on tech for social impact.  
+I’m especially interested in projects that combine backend development with AI to solve challenges across Africa.
+
+---
+
+## 🌐 Connect With Me
+
+📧 **Email:** [billymwangi200@gmail.com](mailto:billymwangi200@gmail.com)  
+💼 **LinkedIn:** [Billy Mwangi](https://www.linkedin.com/in/billy-mwangi-5b6b5926a)  
+💻 **GitHub:** [BillyMwangiDev](https://github.com/BillyMwangiDev)
+
+---
+
+## 🏅 Quick Stats & Badges
+
+![ALX Backend](https://img.shields.io/badge/ALX-Backend-blue)  
+![Nutanix Certified](https://img.shields.io/badge/Nutanix-Certified-green)  
+![Veeam Certified](https://img.shields.io/badge/Veeam-Certified-orange)  
+![Cisco Python](https://img.shields.io/badge/Cisco-Python-blueviolet)
+
+---
+
+> “Technology is best when it connects people and solves real problems.”  
+> — Billy Mwangi
 
 
 <!---
