@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Billy Mwangi
 
-**System Administrator | ALX Backend Student | Aspiring Software Engineer**
+**System Administrator |Software Engineer**
 
 📩 [billymwangi200@gmail.com](mailto:billymwangi200@gmail.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/billy-mwangi-5b6b5926a)  
