@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Billy Mwangi
 
-**System Administrator |Software Engineer**
+** Software Engineer | System administrator **
 
 📩 [billymwangi200@gmail.com](mailto:billymwangi200@gmail.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/billy-mwangi-5b6b5926a)  
