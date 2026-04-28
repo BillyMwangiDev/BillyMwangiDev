@@ -31,7 +31,7 @@
 
 > **Hekima** is Swahili for *Wisdom*. We apply it.
 
-I'm **Billy Mwangi**, founder of **[Hekima Labs](https://hekimalabs.tech)** and a **Claude Community Leader** in the Anthropic ecosystem. Based in Nairobi, Kenya, I build AI and automation systems that close **The Gap**: the disconnect between where African businesses store data and where decisions actually get made.
+I'm **Billy Mwangi**, founder of **[Hekima Labs](https://hekimalabs.tech)** and a **Claude Expert** in the Anthropic ecosystem. Based in Nairobi, Kenya, I build AI and automation systems that close **The Gap**: the disconnect between where African businesses store data and where decisions actually get made.
 
 I work with fast-growing Kenyan SMEs and enterprise teams to replace Excel bottlenecks, reporting silos, and manual workflows with intelligent, documented, and team-owned systems.
 
