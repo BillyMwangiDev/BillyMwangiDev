@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=680&lines=AI+%26+Automation+Studio+Founder;Claude+Community+Leader+%7C+Anthropic;Africa-First+AI+Practitioner;LLM+Pipeline+%26+Workflow+Builder;Full-Stack+Engineer+%7C+Nairobi+%F0%9F%87%B0%F0%9F%87%AA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=680&lines=AI+%26+Automation+Studio+Founder;Claude+Community+Leader+%7C+Kenya;Africa-First+AI+Practitioner;LLM+Pipeline+%26+Workflow+Builder;Full-Stack+Engineer+%7C+Nairobi+%F0%9F%87%B0%F0%9F%87%AA" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -36,7 +36,7 @@ I'm **Billy Mwangi**, founder of **[Hekima Labs](https://hekimalabs.tech)** and 
 I work with fast-growing Kenyan SMEs and enterprise teams to replace Excel bottlenecks, reporting silos, and manual workflows with intelligent, documented, and team-owned systems.
 
 - Founder and lead architect at **Hekima Labs** (AI & Automation Studio, Nairobi)
-- Claude Community Leader in the Anthropic ecosystem
+- Claude Community Leader for Kenya in the Anthropic ecosystem
 - Africa-first LLM pipeline and workflow builder
 - ALX Professional Foundations graduate
 
