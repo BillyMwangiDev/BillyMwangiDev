@@ -116,21 +116,76 @@ Training & Adoption    ->  Team enablement, AI habit formation, documentation
 
 ## Featured Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-| Project | Description | Stack |
-|---|---|---|
-| [**LAI Group KE**](https://github.com/BillyMwangiDev/LAI-GROUP-KE) | Kenya's most curated luxury short-stay platform. Architecturally unique properties — from signature mabati-clad mansions to sustainable forest retreats — bookable directly via WhatsApp. Live at [lai.africa](https://lai.africa) | Next.js 15, TypeScript, Sanity CMS, Tailwind, Framer Motion |
-| [**Ascribe**](https://github.com/BillyMwangiDev/Ascribe) | Tenant self-service portal for residential property management. Phone login, unit assignment, invoices, M-Pesa payments, statements, and receipts in one app | Expo SDK 54, React Native, TypeScript, TanStack Query, M-Pesa |
-| [**BizKit**](https://github.com/BillyMwangiDev/Bizkit) | Mobile-first business document generator for freelancers and SMEs. Enter your details once and auto-populate branded invoices, quotations, receipts, and proformas, exportable as PDF — no design skills needed | Expo SDK 56, React Native, TypeScript, Zustand, expo-print |
-| [**Keja**](https://github.com/BillyMwangiDev/Keja) | Mobile-first property rental platform for Nairobi. Eliminates agent fees, verifies listings via National ID + property deed, and integrates M-Pesa STK Push with geospatial search | FastAPI, React Native, PostgreSQL + PostGIS, M-Pesa |
-| [**MIFUGO**](https://github.com/BillyMwangiDev/MIFUGO-MANAGEMENT) | IoT cattle tracking and health monitoring platform. Real-time GPS via smart collars, geofencing, estrus/sickness detection, theft alerts, and USSD access for feature-phone herders | FastAPI, Next.js, MQTT, PostGIS, ESP32, Africa's Talking |
-| [**Trading Dashboard**](https://github.com/BillyMwangiDev/Trading-dashboard) | Full-stack XAU/USD trading terminal with live candlestick charts, 7 technical indicators, AI quant analyst powered by Claude, risk management, and trade journaling | React, TypeScript, Node.js, WebSocket, Claude API |
-| [**Stock Soko**](https://github.com/BillyMwangiDev/Stock-Soko) | NSE mobile trading platform with AI buy/sell/hold signals, real-time portfolio tracking, M-Pesa deposits/withdrawals, and 24 built-in learning modules | FastAPI, React Native, PostgreSQL, Redis, Celery, M-Pesa |
-| [**DukaPOS**](https://github.com/BillyMwangiDev/DukaPOS) | Offline-first Windows POS for Kenyan retail SMEs. Runs fully without internet, supports barcode scanning, multi-tender checkout (Cash + M-Pesa + Credit), and KRA eTIMS export | Electron, FastAPI, React, TypeScript, SQLite, M-Pesa |
-| [**Learn Simu Grow**](https://github.com/BillyMwangiDev/learn-simu-grow) | Offline-capable EdTech PWA for Kenyan learners. Structured courses, voice-based pronunciation lessons, daily quizzes, gamification, and a local job board | React, TypeScript, Vite, Web Speech API, Service Workers |
+### [LAI Group KE](https://github.com/BillyMwangiDev/LAI-GROUP-KE)
+**Luxury short-stay platform — _live at [lai.africa](https://lai.africa)_**
 
-</div>
+Kenya's most curated luxury stays: architecturally unique homes, from mabati-clad mansions to forest retreats, booked directly over WhatsApp.
+
+`Next.js 15` · `TypeScript` · `Sanity` · `Framer Motion`
+
+</td>
+<td width="50%" valign="top">
+
+### [Keja](https://github.com/BillyMwangiDev/Keja)
+**Property rental for Nairobi**
+
+Mobile-first rentals with zero agent fees. Listings verified by National ID + title deed, M-Pesa STK Push, and geospatial search.
+
+`FastAPI` · `React Native` · `PostGIS` · `M-Pesa`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [MIFUGO](https://github.com/BillyMwangiDev/MIFUGO-MANAGEMENT)
+**IoT cattle tracking & health**
+
+ESP32 smart collars stream live GPS with geofencing, sickness/estrus detection, and theft alerts — plus USSD access for feature-phone herders.
+
+`FastAPI` · `Next.js` · `MQTT` · `ESP32` · `Africa's Talking`
+
+</td>
+<td width="50%" valign="top">
+
+### [Trading Dashboard](https://github.com/BillyMwangiDev/Trading-dashboard)
+**XAU/USD terminal with a Claude quant**
+
+Live candlestick charts, 7 technical indicators, an AI quant analyst powered by Claude, plus risk management and trade journaling.
+
+`React` · `TypeScript` · `WebSocket` · `Claude API`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [DukaPOS](https://github.com/BillyMwangiDev/DukaPOS)
+**Offline-first POS for Kenyan retail**
+
+Runs fully without internet. Barcode scanning, multi-tender checkout (Cash + M-Pesa + Credit), and KRA eTIMS export.
+
+`Electron` · `FastAPI` · `React` · `SQLite` · `M-Pesa`
+
+</td>
+<td width="50%" valign="top">
+
+### [Stock Soko](https://github.com/BillyMwangiDev/Stock-Soko)
+**NSE trading, built for mobile**
+
+AI buy/sell/hold signals, real-time portfolio tracking, M-Pesa deposits and withdrawals, and 24 built-in learning modules.
+
+`FastAPI` · `React Native` · `Redis` · `Celery` · `M-Pesa`
+
+</td>
+</tr>
+</table>
+
+**More on GitHub** — [Ascribe](https://github.com/BillyMwangiDev/Ascribe) (tenant portal · Expo + M-Pesa) · [BizKit](https://github.com/BillyMwangiDev/Bizkit) (branded business docs → PDF · Expo) · [Learn Simu Grow](https://github.com/BillyMwangiDev/learn-simu-grow) (offline EdTech PWA · Web Speech API)
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:D4824A,100:E8A470&height=3&section=header" width="100%"/>
