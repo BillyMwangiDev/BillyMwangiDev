@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="assets/HL_mark.png" width="108" alt="Hekima Labs"/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,60:101010,100:D4824A&height=220&section=header&text=Billy%20Mwangi&fontSize=65&fontColor=E1E0CC&fontAlignY=40&desc=Founder%20%40%20Hekima%20Labs%20%7C%20Claude%20Expert%20%C2%B7%20Nairobi&descSize=18&descAlignY=60&animation=fadeIn" width="100%"/>
+  <img src="assets/header.svg" width="100%" alt="Billy Mwangi - Founder at Hekima Labs"/>
 </div>
 
 <div align="center">
