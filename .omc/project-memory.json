@@ -1,0 +1,68 @@
+{
+  "version": "1.0.0",
+  "lastScanned": 1781202832402,
+  "projectRoot": "/Users/billy/WORK/BillyMwangiDev",
+  "techStack": {
+    "languages": [],
+    "frameworks": [],
+    "packageManager": null,
+    "runtime": null
+  },
+  "build": {
+    "buildCommand": null,
+    "testCommand": null,
+    "lintCommand": null,
+    "devCommand": null,
+    "scripts": {}
+  },
+  "conventions": {
+    "namingStyle": null,
+    "importStyle": null,
+    "testPattern": null,
+    "fileOrganization": null
+  },
+  "structure": {
+    "isMonorepo": false,
+    "workspaces": [],
+    "mainDirectories": [],
+    "gitBranches": {
+      "defaultBranch": "main",
+      "branchingStrategy": null
+    }
+  },
+  "customNotes": [],
+  "directoryMap": {},
+  "hotPaths": [
+    {
+      "path": "README.md",
+      "accessCount": 9,
+      "lastAccessed": 1781205880896,
+      "type": "file"
+    },
+    {
+      "path": "header_browser.png",
+      "accessCount": 1,
+      "lastAccessed": 1781204568823,
+      "type": "file"
+    },
+    {
+      "path": "header_browser2.png",
+      "accessCount": 1,
+      "lastAccessed": 1781204641566,
+      "type": "file"
+    },
+    {
+      "path": "wave.png",
+      "accessCount": 1,
+      "lastAccessed": 1781205119136,
+      "type": "file"
+    },
+    {
+      "path": "font.png",
+      "accessCount": 1,
+      "lastAccessed": 1781205801404,
+      "type": "file"
+    }
+  ],
+  "userDirectives": []
+}
